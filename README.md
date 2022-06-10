@@ -17,7 +17,8 @@ Python
    ( https://colab.research.google.com/drive/1oO_3hUPBQgu0XIf0n__WXILE2lk84F0h#scrollTo=zltySP8_UrTA )
    save the model.
    
-   ![image](https://user-images.githubusercontent.com/68839065/173102649-b1a7c36e-0593-419c-980e-5f53f61eabd6.png)
+   ![image](https://user-images.githubusercontent.com/68839065/173104311-d123f75f-6da4-410c-ab02-8950c1ededc0.png)
+
    
 
 
